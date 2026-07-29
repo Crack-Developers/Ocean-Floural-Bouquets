@@ -77,6 +77,21 @@ const Footer = () => {
               <li>Terms &amp; Conditions</li>
             </ul>
           </div>
+
+      <div className="mt-10 border-t border-gray-600 pt-4 text-center text-sm text-gray-300 flex flex-col gap-1">
+        <span>© 2026 Ocean Floral & Bouquet. All Rights Reserved.</span>
+        <span>
+          Developed By{" "}
+          <a
+            href="https://crackdevelopers.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-white hover:text-red-400 font-semibold transition"
+          >
+            crackdevelopers.com
+          </a>
+        </span>
+      </div>
         </div>
       </div>
     </footer>
